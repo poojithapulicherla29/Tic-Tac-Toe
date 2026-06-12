@@ -1,0 +1,19 @@
+.board-row{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.board-container{
+  margin:20px; 
+}
+
+.player-turn-text{
+  text-align: center;
+}
+
+.game-title{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
